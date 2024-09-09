@@ -13,4 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush-oswal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📝 Blogs:
+- [Elastic Search: A Beginner's Guide](https://medium.com/@ayushoswal2003/elastic-search-a-beginners-guide-1aa6b4f4ce4f)
+- [State Management with Zustand](https://medium.com/@ayushoswal2003/state-management-with-zustand-e08b8fcbc0fe)
